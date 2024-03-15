@@ -1,7 +1,5 @@
 <h4 align="center">Yo! I'm Princess Heart Danila Y. Aguid, future Game Developer 👋</h4>
 
-
-
 ###
   
 <div  align="center">
