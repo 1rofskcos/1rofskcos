@@ -1,4 +1,4 @@
-<h4 align="center">Yo! I'm Princess Heart Danila Y. Aguid, future Game Developer 👋</h4>
+<h4 align="center">Yo! I'm Socks, future Game Developer 👋</h4>
 
 ###
   
